@@ -30,7 +30,7 @@ export class ApiError extends Error {
 
 export async function fetchWhiskies(): Promise<Whiskey[]> {
 	try {
-		const response = await fetch('http://localhost:3000/scraping/smws/get-all');
+		const response = await fetch('https://api.skidhub.fr/scraping/smws/get-all');
 
 		if (!response.ok) {
 			throw new ApiError(`HTTP error! status: ${response.status}`, response.status);
