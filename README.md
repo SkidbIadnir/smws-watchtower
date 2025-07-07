@@ -60,7 +60,7 @@ npm run dev
 npm run dev -- --open
 ```
 
-The application will be available at `http://localhost:5173` (or the next available port).
+The application will be available at `https://smws.skidhub.fr`.
 
 ## API Integration
 
