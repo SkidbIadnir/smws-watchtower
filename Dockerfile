@@ -28,7 +28,7 @@ RUN npm ci --omit=dev
 COPY --from=builder /app/build ./build
 
 # Expose port
-EXPOSE 6000
+EXPOSE 3000
 
 # Run the server by specifying the actual JS file
 CMD ["node", "build/index.js"]
