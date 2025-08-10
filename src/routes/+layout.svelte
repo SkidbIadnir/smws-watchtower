@@ -23,6 +23,7 @@
 						<path d="M1799 349l242 241-1017 1017L7 590l242-241 775 775 775-775z"></path>
 					</svg>
 				</div>
+				<!-- svelte-ignore a11y_no_noninteractive_tabindex -->
 				<ul tabindex="0" class="dropdown-content z-[1] p-2 shadow-2xl bg-base-300 rounded-box w-52">
 					<li>
 						<input

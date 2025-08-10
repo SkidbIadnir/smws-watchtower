@@ -74,8 +74,7 @@
 			SMWS Watchtower
 		</h1>
 		<p class="text-xl text-base-content/80 max-w-2xl mx-auto">
-			Discover exceptional single cask whiskies from the Scotch Malt Whisky Society's exclusive
-			collection
+			Search through the Scotch Malt Whisky Society's current whisky collection
 		</p>
 	</div>
 
